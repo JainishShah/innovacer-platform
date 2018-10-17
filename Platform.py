@@ -105,7 +105,7 @@ for item in Series_ID:
 	date= ses_info[9].contents							
  	today = datetime.datetime.now()								
   	count = 0
-  	season_year_list = [] 
+  	season_year_list = []
 	for year in date:
 	 	if(count%2 == 1 and count < len(date)-2):
   		 	if(int(year.contents[0]) >= int(today.year)):
@@ -146,7 +146,7 @@ for item in Series_ID:
 					series_status[series_id_rel[str(item)]] = text
 					flag = True				
 					break
-			if(flag == False and len(season_year_list) == 2 ):
+			if(flag == False and len(season_year_list) == 1 ):
 				text = "The next season begins in " + str(int(today.year + 1))
 				series_status[series_id_rel[str(item)]] = text
 			else:
