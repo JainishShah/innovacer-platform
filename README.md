@@ -18,16 +18,15 @@ Using OMDB API the program will get the IMDB  ID of user's favourite TV series.
 The IMDB ID is scrapped from Json file :
 
 <p align="center">
-    <img src="home/jainish/Pictures/omdb.png" width="500" title="hover text">
+    <img src="home/jainish/Pictures/omdb" width="500" title="hover text">
   </p>
 
 
 Information about the TV series is scrapped from imdb page of the series using the ID :
 
 <p align="center">
-  <img src="home/jainish/Pictures/imdb1.png" width="500" title="hover text">
+  <img src="home/jainish/Pictures/imdb1" width="500" title="hover text">
 </p>
- 
  
  
  <p align="center">
