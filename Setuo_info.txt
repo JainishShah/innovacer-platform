@@ -1,0 +1,7 @@
+<b>install  mysql for your device </b>
+  sudo apt-get install mysql-server(linux)
+
+<b>run db_setup.py</b>
+
+<b>run platform.py</b>
+
