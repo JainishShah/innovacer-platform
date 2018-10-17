@@ -9,7 +9,7 @@ Input :
   List of Tv series user like
 
  <p align="center">
-  <img src="https://github.com/JainishShah/innovacer-platform/blob/master/INPUT_INNOVACER.png" width="500" title="hover text">
+  <img src="https://github.com/JainishShah/innovacer-platform/blob/master/input.png" width="500" title="hover text">
 </p>
  
 
